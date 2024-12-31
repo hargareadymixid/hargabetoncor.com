@@ -1,57 +1,59 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Hendra
+    name: Eko
     message: >-
-      Saya memanfaatkan layanan readymix beton dari hargabetoncor.com untuk
-      proyek rumah saya, dan hasilnya menakjubkan. Beton yang disediakan
-      berkualitas tinggi dan proses pengecorannya berjalan lancar.
+      Saya menggunakan layanan readymix beton dari hargabetoncor.com untuk
+      proyek rumah saya, dan hasilnya sangat memuaskan. Beton yang dikirim
+      premium dan proses pengecorannya tertata.
     response: >-
-      Kami berterima kasih atas kepercayaan Anda. Terima kasih telah memilih
+      Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih
       readymix beton kami!
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Lina
+    name: Ayu
     message: >-
       Saya terbantu oleh hargabetoncor.com dalam memenuhi kebutuhan beton saya.
-      Produknya berkualitas dan sesuai dengan spesifikasi proyek.
+      Produknya premium dan sesuai dengan spesifikasi proyek.
     response: >-
-      Terima kasih atas masukan Anda! Kami senang Anda puas dengan layanan dan
-      produk kami.
+      Kami sangat menghargai ulasan Anda. Bahagia mengetahui bahwa Anda puas
+      dengan layanan readymix dari kami.
     rating: 5
   - avatar: /images/admin/avatar3.png
-    name: Ahmad
+    name: Hadi
     message: >-
-      Beton dari hargabetoncor.com tepat waktu dan berkualitas proyek perumahan
-      saya.
+      Layanan readymix beton dari hargabetoncor.com efisien dan bermutu. Beton
+      yang dikirim sesuai dengan kualitas yang saya harapkan untuk proyek real
+      estate saya.
     response: >-
-      Terima kasih! Kami dedikasi untuk menyediakan layanan readymix beton
-      berkualitas dengan pengiriman yang lancar.
+      Kami menghargai ulasan Anda. Terima kasih atas pilihan Anda menggunakan
+      readymix beton kami!
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Toni
+    name: Deni
     message: >-
-      Layanan sewa concrete pump dari hargabetoncor.com berjalan dengan lancar
-      dan hasilnya memuaskan.
+      Saya sangat puas dengan layanan sewa concrete pump dari hargabetoncor.com.
+      Prosesnya efisien dan hasilnya hebat.
     response: >-
       Senang mendengar Anda puas dengan hasilnya. Terima kasih atas
-      kepercayaannya dalam menggunakan layanan kami! Kami harap Anda kembali
-      lagi.
+      kepercayaannya dalam menggunakan layanan kami! Semoga proyek berikutnya
+      berjalan lancar.
     rating: 4
   - avatar: /images/admin/avatar5.png
-    name: Nur
+    name: Maya
     message: >-
-      hargabetoncor.com memberikan solusi yang tepat dalam proyek cor lantai
-      kantor saya. Layanannya kompeten dan hasilnya hebat.
+      hargabetoncor.com sangat membantu dalam proyek cor lantai kantor saya.
+      Layanannya kompeten dan hasilnya memuaskan.
     response: >-
-      Terima kasih! Kami senang dapat membantu mewujudkan proyek cor lantai
-      kantor Anda dengan solusi efisien.
+      Kami sangat menghargai ulasan Anda. Terima kasih telah memilih layanan
+      kami! Semoga hasilnya selalu memuaskan.
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Toni
+    name: Eko
     message: >-
-      Saya menyewa concrete pump untuk renovasi rumah, dan hasilnya memuaskan.
-      Layanan yang diberikan hargabetoncor.com berkualitas.
+      Saya menyewa concrete pump untuk renovasi rumah, dan hasilnya sesuai
+      dengan harapan. Layanan yang diberikan hargabetoncor.com berkualitas.
     response: >-
-      Kami senang mendengar bahwa Anda puas dengan layanan kami. Terima kasih
-      atas kepercayaannya!
+      Terima kasih telah memilih concrete pump kami untuk renovasi rumah Anda.
+      Kami senang layanan kami sesuai dengan harapan Anda. Semoga proyek
+      berikutnya sukses.
     rating: 4
